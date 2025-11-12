@@ -186,8 +186,10 @@ App runs without errors on Android and iOS
 
 🔗 Links
 
+live link for android: [https://appetize.io/app/b_wsmm36iw5aipglycz4ha3sfbsa]
 
-Live Demo: [stage-4-url-qnjt.vercel.app]
+Live link for ios : [https://appetize.io/app/b_goe6yi4atslk4nh4ph7ya7nz4i]
+Live Demo: [stage-4-url-qnjt.vercel.app] for both Android and ios simultaneously 
 
 Demo Video: [https://youtube.com/shorts/TN-n3DN2T0g?si=PdIVdLWGVy95wfQl]
 
